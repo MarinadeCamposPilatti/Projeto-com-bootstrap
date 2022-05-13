@@ -1,0 +1,23 @@
+.navbar{
+    background-color: yellow;
+}
+
+.site, .mensagem{
+    background-color: greenyellow;
+}
+
+#site1{
+    background-color:beige;
+}
+
+.facebook, .gmail,.instagram,.telefone{
+    height: 50px;
+    width: 50px;
+  }
+ 
+.contato li{
+    font-weight: bold;
+    list-style-type: none
+}
+
+
